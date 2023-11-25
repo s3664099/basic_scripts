@@ -20,7 +20,7 @@ that contain any conversions.
 ##Structure##
 The structure of this repository is that the first level are the books. If there
 there are multiple versions for different machines, then the next level will be
-directories representing the machines, and the verions will appear in the
+directories representing the machines, and the versions will appear in the
 directories. If there is only one machine it will just be the book. However I
 will include a readme.md in the directory to provide details on the compatible
 machine.
