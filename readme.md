@@ -38,3 +38,7 @@ machine.
 *Creepy Computer Games*
 [You can find a copy of the book here](https://ia801902.us.archive.org/3/items/Creepy_Computer_Games_1983_Usborne_Publishing/Creepy_Computer_Games_1983_Usborne_Publishing.pdf)
 [You can find my repository here](https://github.com/s3664099/Creepy_Computer_Games)
+
+*Computer Spy Games*
+[You can find a copy of the book here](https://archive.org/details/Computer_Spy_Games)
+[You can find my repository here](https://github.com/s3664099/Computer_Spy_Games)
