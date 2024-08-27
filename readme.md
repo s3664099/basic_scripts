@@ -42,3 +42,5 @@ machine.
 *Computer Spy Games*
 [You can find a copy of the book here](https://archive.org/details/Computer_Spy_Games)
 [You can find my repository here](https://github.com/s3664099/Computer_Spy_Games)
+
+*Island of Secrets*
