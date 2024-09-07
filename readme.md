@@ -44,3 +44,5 @@ machine.
 [You can find my repository here](https://github.com/s3664099/Computer_Spy_Games)
 
 *Island of Secrets*
+[You can find a copy of the book here](https://archive.org/details/island-of-secrets_202303)
+[You can find my repository here](https://github.com/s3664099/island_of_secrets)
